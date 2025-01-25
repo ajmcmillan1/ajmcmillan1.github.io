@@ -1,4 +1,4 @@
-# ajmcmillan1.github.io
+# Andrew McMillan
 ajmcmillan1.github.io
 My name is Andrew McMillan
 This account is for school work only
