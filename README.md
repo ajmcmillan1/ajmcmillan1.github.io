@@ -7,10 +7,14 @@ This account will hold assignments given to me.
 
 # About Me
 ## My Interests
-**Sports** *(Duke)*, *Football*, *Baseball*
+**Sports** *(Duke)*, *Football*, *Baseball*, *Basketball*, *Track*
+
 **Spending time with my family**
+
 **Working out**
+
 **Ice Plunge**
+
 **Relaxing**
 
 ## Websites I Reccommend 
