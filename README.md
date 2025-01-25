@@ -19,4 +19,5 @@ This account will hold assignments given to me.
 
 ## Websites I Reccommend 
 [Youtube](https://youtube.com) - So much information in videos. I love that you can learn anything off of youtube.
+
 [Udemy](https://www.udemy.com) - Love teaching myself new things and seeing whats out there to learn
