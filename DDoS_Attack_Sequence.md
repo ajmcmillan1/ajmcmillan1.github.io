@@ -14,7 +14,7 @@ sequenceDiagram
     Firewall->>BotNet: Blocks IP addresses
     Firewall->>WebServer: Manages to Mitigates traffic
     WebServer->>LegitimateUser: Continues to serve legitimate requests
-
+```
 ## Description of the Sequence Diagram
 
 1. **Attacker Compromises Systems**: The attacker gains control over multiple systems, creating a botnet.
